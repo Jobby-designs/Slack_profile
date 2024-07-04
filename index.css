@@ -21,25 +21,15 @@ footer{
     
 }
 
-main {
-    /* padding: 1rem; */
-}
 
-section {
-    /* margin-bottom: 2rem; */
-}
+
+
 
 h2 {
     padding-bottom: 0.5rem;
     text-decoration: none;
 }
-.profile{
-    
-}
-.profile img {
-    width: 150px;
-    height: 150px;
-}
+
 
 ul {
     list-style-type: disc;
